@@ -1,0 +1,2734 @@
+﻿大正新修大藏经第 54 册 No. 2133B 梵语千字文
+
+
+　　No. 2133B
+
+　　梵语千字文(并序附刻)
+
+　　三藏法师义净撰
+
+　　为欲向西国人作学语样仍各注中梵音下题汉字其无字者以音正之并是当途要字但学得此则余语皆通不同者旧千字文若兼悉昙章读梵本一两年间即堪翻译矣。
+
+　　梵语千字文旧刻序(附凡例五则)
+
+　　锦囊玉函曾藏宝册矣。梵语千字文斯其目也。曩哲传言义净三藏之所撰也。然旧籍之中援文才存全书久隐。昔在东武偶摸一本而出败笥蠹简之余未能全矣。顷年游洛幸得众本禅余考订粗复正策夐博达梵国之异闻大洗荡圣经之滞疑袭重秘惜独展眉矣。顾其撰者之训人泛爱之所及而吾焉廋哉于是强翻函囊从事雕镂云时享保丁未之春建寅之望瑜伽乘沙门寂明书于洛东侨居。
+
+　　凡例
+
+　　一此书一名梵唐千字文安然录载云慈觉大师之请来今探数本参互考定而未无谬也披览君子幸得好本再质正之。
+
+　　一梵唐对俪音韵赊切或不得正考之众本而无可据则置而不改纵有经轨明文而不据彼削此其意可知耳。
+
+　　一诸本有异遽难决者间点示之揭之冠首又傍附国字力惠幼学耳。
+
+　　一和州法隆寺藏中天贝叶二片。般若心经及尊胜陀罗尼也。末出悉昙十四音。今此中梵字形容彼贝叶而与当世书家之迹互滥难辨随世焉耳。如彼贝叶齿音第二作ḍha 形。唇音第二作pha 形者忽示难范故不取之如舌音第二作ṭa 。喉音第二作tha 。第四作dha 及摩多中第四点作ḷ 。第七作e 别摩多<PIC>SD-E3C0.gif</PIC>作ṛ 者虽异例无滥自余少异披而可见焉。
+
+　　一今此书也四字成句一齐押韵而数写数误文字出没布置错乱校之数帙而无可序矧其以唐对梵何详其趣纵使兴嗣次韵岂能并订二国之语意乎。
+
+　　梵语千字文译注
+
+　　天地日月。阴阳圆矩。昼夜明暗。雷电风雨。星流云散。来往去取。东西南北。上下相辅。皇臣仆吏。贵贱童竖。刊定品物。策立州主。辨教礼书。置设卫府。父母兄弟孝义弘抚甥舅异邻。伯叔同聚。奉事友明。矜爱贫窭。山庭蔽轩盖。净野标。华柱。美素竟千秋嘉声传万古(已上麌姥)。
+
+　　男女迎嫁。唤命招追。卖买出入。俗务交驰。市店商货。妍丑强羸。先蒙少赠。今酬重遗。一闻砥砺。再想箴规。谨身节俭。离此而谁。终希恶灭。恒敦福绥。祸如响应。善若影随。图名璀璨。积行葳蕤。汝钦睿哲。犹囊里锥。咸京遵硕德。龟洛启神师。既能欢夕殒。何得苦朝饥(已上支脂)。
+
+　　讲道论妙。激扬理致。文参叠席。聪过𨵃肆。玉砌推贤。石渠让次。捡验是非。提撕愚智。纸落浮花。诗成含翠。笔不停毫。句宁易字。意存忠直。弗尚邪媚。独畅幽情。偏抽雅思。片淑求仁。君子匪器。才伎勿嫌。固难周备。七步沈辞远。三略玄英秘。铨衡信立人。诚哉未沦坠(已上置至)。
+
+　　兵戎偃戟。武帝腾辉。通衢走驿。结陌萦旗。九江跃羽。四海呈威。铜梁截险。剑阁要机。好谋宣败。临敌虑微。胜怀大惧虽劣莫欺。鱼丽只进。鹤翼双飞。赤心罔诈。黄泉指期。元首欣效。赏职靡疑。股肱竭操。佐弼乾基。送使祇连伏。旋旌宿慎归。息静肩胸里战遂肥(已上微)。
+
+　　饮食饭菜。盐酢羹𦞦。饼果喜团。糖蔗啖嚼。姜椒(胡椒)芥(白芥)芋。煮熟斟酌。恭敬持与。盘盂屏却。踞坐小床。返系衣角。餐罢迁位。齿木梳濯。牛粪涂拭。洗涤匙杓。仓库厨厅。储安釜镬。刀镰𤬪瓮。斧箕绳索。违拒敕条。官司执缚。养身知患本。遂静栖林薄。专崇社多志。急遣斯封着(已上药铎)。
+
+　　春耕种植。畎亩营农。决池降泽。犁耢施功。懒夫晨寐。勤士宵兴。鞭杖车舆。驴驮马乘。排槊弓箭。逆顺分崩。稻麻豆麦。课役年征。筹量斛数。计算斗升。绢布肘度。雇价依凭。丝缕箱筐。针綖裁缝。街吟巷吼。瞋笑吉凶。绝岭新芝碧。危峦旧蕊红。解带宜攀折。共鄙田家翁(已上东)。
+
+　　给园仙树。鹿苑王城。薜舍梨国。劫比罗营。回顾恋别。报望恩生。鸡峰隐骨。龙穴潜形。禅河水浚。戒巘岩清。俯悲尘界。犹式遮听。慈幡永振。慧炬长荧。扶关六趣。开围十冥。祛除虐毒。轸忍黔灵。严仪像殿。写勘尊经。佛法处。僧念罪轻。位幸当修轨辙。毕至涅槃城(已上康耕)。
+
+　　袈裟衣瓶钵卧具衣裳。厚被盛柜。单裙袋藏。虫鼠恐啮。浣晒舒张。氍毹绫锦。绣褥芳檐宇萧洒缓掉铿锵。有耻艾臭。无嫌麝香。赞咏歌管。博奕酒医。梵音弹舌。悉昙莫忘。愿兹利润。总洽无疆。且题八百。余皆审详。早须习奇说。始可向他乡。聊申学语样。岂欲耽文章(已上阳唐)。
+
+　　初因业报。托形母胎。无明种子。造作根栽。识聚因起。名色相依。六处既剖。触支复推。受爱贪境。取有斯开。见生虽喜。老死还哀。忧悲始去。苦恼终来。如轮环之转。若箭之催。善居天苑。恶处煻煨。明可信。浩宁猜。四生频落泊。六趣几徘徊。眷言明智者。事可伤哉(已上灰胎)。
+
+　　头目耳鼻。唇口牙咽。额项毛发。舌卷胸悬喉缺肩甲。臂腕相连。筋脉疮疥。指节纤骈。腰背乳助。肾勾牵。脐面胁。肠肚一边。屎尿充塞。臗𦜮敧偏。皮肉骨髓。脓血周缘。髀腿𨄔膝。胫腂脶胼。手足顽痹。恒流唾涎。呜呼臭秽体。奇哉人并怜。请知生有过莫向死王前(已上先仙)。
+
+　　唐字千鬘圣语竟
+
+　　梵语千字文译注
+
+　　千文一书。题曰义净撰。识者非无疑。盖依全真唐梵文字而制之。托名净师者也。然有益于初学既已不少。伪也真也。何亦须言。故更附译注云尔。
+
+　　安永癸巳初冬望日
+
+　　沙弥敬光书
+
+　　sva rga 　娑嚩(二合)罗誐(二合)　天
+
+　　pṛ thi bi 　跛𨁫(二合)体(他以反)尾　地
+
+　　su rya 　素(引)哩也(二合)　日
+
+　　ca bhdra 　战达罗(二合)　月
+
+　　cchā yā 　縒(引)也(引)　阴
+
+　　ā ta paḥ 　阿(引)多(上)博　阳
+
+　　pa ri pa ptā 　波哩波吒　圆
+
+　　a de śa 　阿奈舍　矩
+
+　　di va aḥ 　你(宁以反)嚩索　昼
+
+　　rā tri 　啰(引)底哩(二合)　夜
+
+　　ā lo kaḥ 　阿(引)路脚　明
+
+　　a ddha ka raḥ 　阿怛迦洛　暗
+
+　　de va ga rja ti 　祢嚩蘖惹底(丁以反)　雷
+
+　　bi myu 　尾你庾(二合)　电
+
+　　va yu 　嚩庾　风
+
+　　va rṣa 　缚啰沙(二合)　雨
+
+　　tā ra ka 　哆(引)啰迦　星
+
+　　sro ta 　素路(二合)多　流
+
+　　me gha 　谜伽　云
+
+　　vi da ni ta 　尾娜你跢　散
+
+　　ya ti 　野底(丁以反)　往
+
+　　a i śa 　阿伊舍　来
+
+　　ga ta 　誐哆　去
+
+　　ra i gṛ hṇa 　攞伊(上)誐里(二合)诃娜(二合)　取
+
+　　pu rva 　布罗嚩(二合)　东
+
+　　pa śve ma 　波室制(二合)摩　西
+
+　　da kṣa ṇa 　诺乞叉(二合)拏　南
+
+　　u tta ra 　乌多(重)啰　北
+
+　　u pa ra 　邬跛罗　上
+
+　　he ṣṭa 　系瑟姹(重)　下
+
+　　pa ra sma ra 　跛罗娑摩(二合)罗　相
+
+　　pra ti va ddha 　钵罗(二合)底嚩驮　辅
+
+　　de va pu ttra 　祢嚩补怛罗(二合)　皇
+
+　　ma tri 　摩底哩(二合)　臣
+
+　　dā sa 　娜(引)娑　仆
+
+　　di bī ra 　你(宁以反)尾啰　吏
+
+　　ma ha rgha 　摩曷伽　贵
+
+　　sa ma rgha 　娑末罗伽　贱
+
+　　ku mā ra 　俱摩啰　童
+
+　　va la tva 　嚩攞多嚩　竖
+
+　　ni ya ta 　你野多　刊
+
+　　śā nta 　扇(引)多　定
+
+　　pa ri va rtta 　跛哩嚩罗跢　品
+
+　　dra vya 　捺罗(二合)尾也(二合)　物
+
+　　a bhi ṣe ka 　阿毗世迦　策
+
+　　sthi ta 　悉体(二合)多　立
+
+　　ma hā na ga ra 　摩诃曩誐罗　州
+
+　　svā mi 　娑缚(二合)弭　主
+
+　　su ra sva ti 　娑罗娑缚(二合)底(丁以反)　辨
+
+　　śi kṣa ca 　式乞叉左(上)　教
+
+　　ni ti 　你(引)底(丁以反)　礼
+
+　　le khaḥ 　隶佉(入)　书
+
+　　svā pi taḥ 　娑嚩(二合)(引)比多(入)　置
+
+　　u ru 　乌噜　设
+
+　　sa phaṃ 　娑泮(引)　衙
+
+　　ni ga maḥ 　你誐莫　府
+
+　　pi tā 　比哆(引)　父
+
+　　ma tā 　摩哆(引)　母
+
+　　jye ṣṭa bhrā ta 　臡瑟姹(二合)勃罗(二合)多　兄
+
+　　ka nya sā bhrā ta 　迦你也(二合)娑(引)勃罗(二合)(引)多　弟
+
+　　śo ka 　戍迦　孝
+
+　　a rtha 　遏他　义
+
+　　vṛ ha t 　物哩(二合)诃多(半音)　弘
+
+　　pra sā da 　钵罗(二合)娑(引)娜　抚
+
+　　bhā gi ne ya 　婆(引)拟寗也　甥
+
+　　sā la 　娑(引)攞　舅
+
+　　pṛ tha k 　跛哩(二合)诧迦(半音)　异
+
+　　pa ri dhe ṣi 　跛哩弟史　邻
+
+　　jye ṣṭa tṛ pi 　臡(准上)瑟姹(二合)怛罗比　伯
+
+　　pi tṛ ya 　比怛哩(二合)也　叔
+
+　　e ka sthā 　曀迦娑佗(上)(引)　同
+
+　　me la 　谜攞　聚
+
+　　pra ṇa ma 　钵罗(二合)拏(上)摩　奉
+
+　　kā ra 　迦(引)啰　事
+
+　　mi ttra 　弭(音泯)怛罗　友
+
+　　pa kṣaḥ 　博乞洒(二合)(入)　朋
+
+　　ka ru ṇa 　迦噜拏　矜
+
+　　pri ya 　必哩(二合)也　爱
+
+　　da ri drā 　娜哩捺罗(二合)(引)　贫
+
+　　a dra vya 　阿捺罗(二合)弭也(二合)　窭
+
+　　pa rva ta 　钵缚多　山
+
+　　aṃ ga ṇa 　盎(上)誐娜　庭
+
+　　ma nda rā 　曼拏啰(引)　蔽
+
+　　u cchra pi ta 　乌縒啰(二合)(引)比多　轩
+
+　　cche ttra 　㻮怛啰(二合)　盖
+
+　　śu ci 　输(上)止　净
+
+　　a ṭā vī 　阿咜(上)味　野
+
+　　ci hna 　止(即以反)贺曩(二合)(引)　标
+
+　　pu ṣpa 　补涩波(二合)　华
+
+　　sta mbha 　娑担(二合)婆(入)(重呼)　柱
+
+　　mṛ ṣṭa 　摩哩(二合)瑟咤(二合)　美
+
+　　śva ta 　湿吠(二合)多　素
+
+　　sa mā pta 　娑摩(引)波多　竟
+
+　　sa ha sra 　娑诃(上)娑罗(二合)　千
+
+　　śa ra ṭhu 　舍啰姹邬　秋
+
+　　ku śa la 　俱舍罗　嘉
+
+　　śa vda 　摄婆娜(二合)　声
+
+　　sa cā ra 　散左(引)啰　传
+
+　　pra bhe da 　钵罗陛娜　万
+
+　　pu ra ṇa 　补啰(引)拏　古
+
+　　pu ru ṣa 　补噜洒　男
+
+　　strī 　悉怛哩(三合)(引)　女
+
+　　pra tya ga ma na 　钵罗(二合)底也(二合)誐摩曩　迎
+
+　　vi va ha 　尾缚贺(上)　嫁
+
+　　ha kka ra 　郝迦(引)啰　唤
+
+　　jī vi taṃ 　尔(引)尾担　命
+
+　　ni mi tta 　你(引)弭多(重)　招
+
+　　a ka rṣa 　阿(引)羯罗洒　追
+
+　　vi krī ṇa 　尾讫利(二合)拏　卖
+
+　　kri ṇa 　讫哩(二合)拏　买
+
+　　ni kka la 　你迦(重)攞　出
+
+　　pra vi śa 　钵罗(二合)尾舍　入
+
+　　gra hi 　疙哩(二合)呬　俗
+
+　　ka ra lī ya 　迦啰理(引)也　务
+
+　　sa vya ra ha ra 　三弭也(二合)罗贺(上)啰　交
+
+　　ja va 　惹(自罗反)嚩　驰
+
+　　ha ṭṭa 　贺(上)吒(重)　市
+
+　　pra sā ra 　钵罗(二合)娑(引)罗　店
+
+　　bi ṇi ja 　缚抳惹(准上)　商
+
+　　vi lā 　尾讫哩(二合)攞(引)　货
+
+　　pra sā di ka 　钵罗(二合)娑(引)你(宁以反)迦　妍
+
+　　du rva ṇṇa 　讷缚(无拨反)拏(重)　丑
+
+　　va la va huḥ 　摩攞缚虎(重)　强
+
+　　du rva la 　讷摩攞　羸
+
+　　pu rva 　布(引)罗嚩(二合)　先
+
+　　pra sā da 　钵罗(二合)娑(引)娜　蒙
+
+　　sto ka 　窣妒(二合)迦　少
+
+　　pho va ni 　普缚你　赠
+
+　　a dya 　阿你也(二合)　今
+
+　　pra ti pu ja 　钵啰(二合)底布(引)惹　酬
+
+　　gu ru 　虞噜　重
+
+　　ho va ṇi 　护缚抳　遗
+
+　　e ka 　曀迦(上)　一
+
+　　śrū ta 　戍噜(二合)多(上)　闻
+
+　　śi lā 　始攞(引)　砥
+
+　　śe la 　势(引)攞　砺
+
+　　pu na 　补曩(上)　再
+
+　　saṃ jñā 　僧惹拏(二合)(引)　想
+
+　　ga rha ṇa 　孽贺(上)拏　箴
+
+　　nī ti 　你(上)底　规
+
+　　go ra va 　虞(鱼娇反)啰嚩　谨
+
+　　śa rī ra 　设利(引)啰　身
+
+　　pa rdhva 　钵嚩(二合)(重)　节
+
+　　du rbhi kṣā 　讷避乞洒(二合)(引)　俭
+
+　　vi ga ta 　尾誐多　离
+
+　　i ha 　伊(上)贺　此
+
+　　a ta 　阿(上)多　而
+
+　　ko 　句　谁
+
+　　ni ṣṭa 　你瑟𡛥(二合)　终
+
+　　va ra 　嚩啰　希
+
+　　vi rū pa 　尾噜(引)跛　恶
+
+　　ni vṛ dha 　你(你逸反)嚩吒(二合)拏　灭
+
+　　sa rva kā la 　萨嚩迦(引)攞　恒
+
+　　gu ru śra ddhā 　虞噜室啰驮(引)　敦
+
+　　pu ṇya 　本宁也　福
+
+　　su sthi ta 　苏悉体(二合)多　绥
+
+　　pī ṇa 　庇拏(引)　祸
+
+　　ya thā 　也佗(引)　如
+
+　　pra ti śa vda 　钵啰(二合)底(他以反)摄娜　响
+
+　　pra myu ta ra 　钵罗(二合)底庾(二合)多罗　应
+
+　　ku śa la 　俱舍攞　善
+
+　　ya di 　也你(宁以反)　若
+
+　　cchā yā 　舍(引)也(引)　影
+
+　　a nu pa śca tu 　阿耨钵室者(二合)都　随
+
+　　ci tra ka rmma 　质怛罗(二合)羯磨　图
+
+　　nā ma 　曩(引)摩　名
+
+　　mu tra ci ra 　穆怛罗(二合)势罗　璀
+
+　　śro ṣṭa muṃ sa lā 　璨
+
+　　kū ṭa 　俱(引)姹(上)　积
+
+　　saṃ skā ra 　僧娑迦(二合)(引)罗　行
+
+　　gu thā ja 　虞拏惹　葳
+
+　　sa rdha la 　设驮罗　蕤
+
+　　tva yā 　怛缚(二合)夜(引)　汝
+
+　　gu ru 　虞噜　钦
+
+　　bi daḥ 　尾诺(重)　睿
+
+　　pra jñā 　钵罗(二合)惹拏(二合)(引)　哲
+
+　　ya thā 　也佗(引)　犹
+
+　　gu ñjā 　虞惹(引)　囊
+
+　　dhe ni ta 　弟腻多　里
+
+　　ā ra 　阿(引)啰　锥
+
+　　ya cchi ci 　也竖止　咸
+
+　　ma hā 　摩诃　京
+
+　　go ra va 　虞(鱼娇反)罗嚩　遵
+
+　　śi lā 　始攞　硕
+
+　　gu ṇa 　虞拏　德
+
+　　ka ca pa 　迦縒跛　龟
+
+　　sa la ga 　娑啰誐　洛
+
+　　u dgha ṭa 　乌娜伽(二合)吒　启
+
+　　de va ta 　祢嚩多　神
+
+　　śa sta 　舍娑多(二合)　师
+
+　　ya di 　也你(宁以反)　既
+
+　　śa kya 　舍枳也(二合)　能
+
+　　tu ṣṭa 　都瑟吒(二合)　欢
+
+　　ra ttri ttra 　罗怛哩(二合)怛啰(二合)　夕
+
+　　mṛ ta 　摩啰(二合)多　殒
+
+　　ka ta ma 　迦多摩　何
+
+　　pra pta 　跛罗(二合)跛多(二合)　得
+
+　　duḥ kha 　耨佉(上)　苦
+
+　　pra tyu ṣa 　钵罗(二合)底庾(二合)洒　朝
+
+　　bhu kṣa 　仆乞洒(二合)(引)　饥
+
+　　vyā khyā naṃ 　弭也(二合)企也(二合)南　讲
+
+　　pa thā 　跛多(上)　道
+
+　　śa stra 　设娑怛罗(三合)　论
+
+　　maṃ ju 　曼儒(左邬反)　妙
+
+　　ā spho ṭa 　阿(引)娑怖(二合)吒　激
+
+　　dyā ta 　你喻(二合)(引)多　扬
+
+　　vya va hā ra 　弭也(二合)缚贺(引)啰　理
+
+　　a rtha 　阏佗　致
+
+　　a kṣa ra 　恶乞洒(二合)啰　文
+
+　　a sphā yi 　阿娑颇(二合)(引)以　参
+
+　　u pu rā pa ra 　乌补罗(引)跛罗　叠
+
+　　ta la si 　多攞丝(早以反)　席
+
+　　pra jñā 　钵罗(二合)惹拏(二合)　聪
+
+　　a ti krā trā 　阿底乞兰(二合)(引)怛罗(二合)(引)　过
+
+　　dṛ ṣṭi 　涅哩(二合)瑟置(二合)　阅
+
+　　ca tvā ra ṭa 　左怛缚(二合)曷吒　肆
+
+　　mu sā ra 　母娑(引)啰　玉
+
+　　ca ra na 　啰左(上)曩　砌
+
+　　mre ra 　比㘑啰　推
+
+　　bha dra 　跋捺罗(二合)　贤
+
+　　da kṣi ṇa 　娜乞史(二合)拏　石
+
+　　vā ha 　嚩(引)贺(上)　渠
+
+　　bha ga na kṣi rya 　播誐那乞使(二合)里也　让
+
+　　a na ti kra ma 　阿曩底纥罗(二合)摩　次
+
+　　vi cā ra 　尾左(引)啰　捡
+
+　　pra tya kṣa 　钵罗(二合)底也(二合)乞洒　验
+
+　　ho ti 　护(引)底(丁以反)　是
+
+　　a nya thā 　阿你也(二合)(鼻)佗(引)　非
+
+　　pra vi ca ya 　钵罗(二合)尾左也　提
+
+　　sa ma 　娑摩　撕
+
+　　mu rkha 　母(引)啰佉(二合)　愚
+
+　　jñā na 　惹拏(二合)(引)曩　智
+
+　　kā ka 　迦(引)迦哩　纸
+
+　　pa ti ta 　跛底多　落
+
+　　pra va 　跛罗(二合)嚩　浮
+
+　　pu ṣpa 　补涩跛(二合)　花
+
+　　śro kā ka vya 　戍路(二合)迦(上)迦尾也(二合)　诗
+
+　　ni ṣpa ni 　你涩半(二合)曩　成
+
+　　ma ryā dā 　摩哩也(二合)(引)娜(引)　含
+
+　　su rā ga 　素(上)啰(引)誐　翠
+
+　　ka lā ma 　迦攞(引)摩　笔
+
+　　a na 　阿曩　不
+
+　　a ccha 　阿縒(上)　停
+
+　　ro mna u rṇa 　路摩曩(二合)嗢啰拏(二合)　毫
+
+　　pa da 　跛娜　句
+
+　　ni ru pa tra va 　你噜钵捺罗(二合)缚　宁
+
+　　pa ri va rtta 　跛哩袜多(重)　易
+
+　　a kṣa ra 　恶乞洒(二合)罗　字
+
+　　a bhi prā ya 　阿鼻钵罗(二合)(引)也　意
+
+　　saṃ ke ta 　僧(上)计多　存
+
+　　ri ju 　哩儒(而祖反)　忠
+
+　　sphu ṣṭa 　娑颇罗(三合)瑟吒(二合)　直
+
+　　ma pra ti ṣa dha 　摩钵罗(二合)底洒(上)驮　弗
+
+　　a pi 　阿比　尚
+
+　　mi thyā 　弭(上)体也(二合)(引)　邪
+
+　　pro sā di ka 　布路(二合)娑(引)你(宁以反)迦　媚
+
+　　ke va la 　计缚攞　独
+
+　　pra vi ve ka 　钵罗(二合)尾吠迦　畅
+
+　　ga mbhī ra 　俨毗(引)罗　幽
+
+　　sa tva 　萨怛嚩(二合)　情
+
+　　a va na ta 　阿缚曩多　偏
+
+　　ā ka rṣa 　阿(引)羯罗洒　抽
+
+　　pra śna ka 　钵罗(二合)始你(二合)迦　雅
+
+　　ci nta 　振多　思
+
+　　khaṃ u 　釰坞　片
+
+　　ṣrā rtha na 　沙啰他曩　淑
+
+　　prā yā na 　钵罗也(引)曩　求
+
+　　ja na 　惹曩　仁
+
+　　svā mi 　娑嚩(二合)(引)弭　君
+
+　　pu tra 　补怛罗　子
+
+　　ma 　摩　匪
+
+　　bhā ja na 　婆(引)惹曩　器
+
+　　bha ga 　婆(引)誐　才
+
+　　vi jñā na 　尾惹拏(二合)曩　伎
+
+　　ma krā 　么迦罗(引)　勿
+
+　　ju gu psā 　儒虞波娑(二合)(引)　嫌
+
+　　kha rkha ṭā 　朅佉吒(上)　固
+
+　　du ṣka ra 　讷娑迦(二合)啰　难
+
+　　sa ma nta 　娑曼多　周
+
+　　saṃ pa na 　三半曩　备
+
+　　sa pta 　飒多　七
+
+　　kra ma 　讫罗(二合)摩　步
+
+　　ni ma gna 　你摩誐曩(二合)　沈
+
+　　va k 　嚩迦(半音)　辞
+
+　　dū ra 　怒(引)啰　远
+
+　　tṛ ṇi 　怛哩(二合)抳　三
+
+　　saṃ kṣe pa 　僧乞差(二合)跛　略
+
+　　du ra va vo dha 　努罗嚩冒驮　玄
+
+　　me dhā vī 　迷驮(引)尾　英
+
+　　gu hya 　虞呬也(二合)　秘
+
+　　u ci ta 　乌止多　铨
+
+　　tu lya 　睹理也(二合)　衡
+
+　　śra ddhā 　室罗(二合)驮(引)　信
+
+　　sthi ta 　悉体(二合)多　立
+
+　　ja na ma nu ṣya 　惹曩摩努洒也(二合)　人
+
+　　a bhi pra saṃ na 　阿毗钵罗(二合)散曩　诚
+
+　　ka ṣṭa 　迦瑟吒(二合)　哉
+
+　　na tā va tu 　曩多(引)缚睹　未
+
+　　sra va ti 　娑罗(二合)缚底　沦
+
+　　pa ti ta 　跛底多　坠
+
+　　ka dva vā ra 　迦驮嚩(二合)缚(引)啰　兵
+
+　　ā yu dha stra 　阿庾驮设娑多罗(三合)　戎
+
+　　yo tu 　细睹　偃
+
+　　śu la 　戍(引)攞　戟
+
+　　yo dha 　喻驮　武
+
+　　kṣa trī ya 　乞刹(二合)怛哩(二合)也　帝
+
+　　a bhu dga ta 　阿部娜誐(二合)多　腾
+
+　　dyo ti 　你喻(二合)底　辉
+
+　　jha jha dvi 　哩地　通
+
+　　ra thya 　啰他也(二合)　衢
+
+　　dhā va 　驮(引)缚　走
+
+　　sthā na śa lā 　娑佗(二合)(引)曩舍攞(引)　驿
+
+　　gra ccha 　仡罗(二合)蹉　结
+
+　　kṣu lle va rmma 　乞刍(二合)你嚩(无拨反)摩　陌
+
+　　pa ri dhe ṣṭa 　跛哩弟瑟吒(二合)　萦
+
+　　dhva ja 　驮嚩(二合)惹　旗
+
+　　na va 　曩缚　九
+
+　　ma hā na dya 　摩诃曩你也(二合)　江
+
+　　ha kṣa 　郝乞洒(二合)　跃
+
+　　pa kṣa 　博乞叉　羽
+
+　　ca ṭvā ra 　左怛嚩(二合)(引)罗　四
+
+　　sa mu dra 　三母捺罗(二合)　海
+
+　　da rśa ya 　捺罗舍(二合)也　呈
+
+　　te ja nāṃ 　帝惹南(引)　威
+
+　　tāṃ mra 　担(引)摩啰(二合)　铜
+
+　　gṛ ha dhaṃ ga 　仡哩(二合)贺纳誐　梁
+
+　　cchi tya 　质怛哩(二合)　截
+
+　　pra pā ta 　钵罗(二合)播多　险
+
+　　kha rga 　朅伽　剑
+
+　　dha va la gha ra 　驮缚攞伽(上)啰　阁
+
+　　pra yo ja na 　钵罗(二合)喻惹曩　要
+
+　　va ṅmī 　缚(引)仰弭(二合)(引)　机
+
+　　bha lla 　婆(上)攞(重)　好
+
+　　a va ska nda 　阿嚩娑建(二合)娜　谋
+
+　　vi dha vī 　尾驮味　宣
+
+　　vi na śa 　尾曩舍　败
+
+　　a tta 　阿哆(重)　临
+
+　　dhta da va 　驮怛娜嚩　敌
+
+　　ka dā ci tu 　迦娜(引)止睹　虑
+
+　　pa ra ma 　跛啰摩　微
+
+　　ja ya 　惹也　胜
+
+　　ka rja 　建惹　怀
+
+　　ma hā 　摩诃　大
+
+　　bha ya 　婆(上)也　惧
+
+　　da dā mi 　娜娜(引)弭　虽
+
+　　sva la pa 　娑缚(二合)攞跛　劣
+
+　　ma 　摩　莫
+
+　　pa ri bha va 　跛里婆(上)缚　欺
+
+　　ma tssa 　末写(重)　鱼
+
+　　vi ta rka 　尾怛迦　丽
+
+　　ke va la 　计缚攞　只
+
+　　kra ma 　讫罗(二合)摩　进
+
+　　kro jje 　句路(二合)惹泄(二合)　鹤
+
+　　pha rgu na pa kṣa 　发虞曩博乞叉(二合)　翼
+
+　　yu ga la 　庾誐攞　双
+
+　　u ṇa ya ti 　乌拏也底　飞
+
+　　ru kta 　路枳多　赤
+
+　　ci tta 　质多　心
+
+　　jā la 　惹(引)攞　罔
+
+　　ka va ṭa 　迦缚吒　诈
+
+　　pī ta laṃ 　庇多览　黄
+
+　　u mbhe da 　嗢陛娜　泉
+
+　　aṃ gu ṣi 　盎(上)虞涩　指
+
+　　pra tye ka 　钵罗(二合)底曳(二合)迦　期
+
+　　ā di 　阿(引)你(你以反)　元
+
+　　pra tha ma 　钵罗(二合)佗摩　首
+
+　　tu ṣṭa 　睹瑟吒(二合)　欣
+
+　　u cā ha 　嗢縒(引)贺(上)　效
+
+　　dā ya 　娜(引)也　赏
+
+　　sthā naṃ 　娑佗(二合)(引)难　职
+
+　　a nu tna ta 　頞耨但曩(二合)多　靡
+
+　　vi ci ki ca 　尾止枳縒　疑
+
+　　vā hu 　缚(引)虎　股
+
+　　u rū 　污噜(引)　肱
+
+　　ya tna 　也但曩　竭
+
+　　dṛ ḍhḍha 　涅哩(二合)荼(重)　操
+
+　　sa khā ya 　娑佉(引)也　佐
+
+　　pa ri cā ra ka 　跛哩左(引)罗迦　弼
+
+　　de va 　祢嚩　干
+
+　　so pa naṃ 　素播难　基
+
+　　pre ṣa ya 　必隶(二合)洒也　送
+
+　　pre ṣa ka 　必隶(二合)洒迦　使
+
+　　bho ma de va ta 　部摩祢缚多　祇
+
+　　saṃ śre ṣa 　僧室隶(二合)洒　连
+
+　　na ha ta 　你贺多　伏
+
+　　bhra mya ti 　𡋯啰弭野(二合)底　旋
+
+　　ci hna 　止贺曩(二合)　旌
+
+　　na kṣa ta 　诺乞叉(二合)怛罗(二合)　宿
+
+　　bhī ru vā ra 　毗(引)噜缚(引)啰　慎
+
+　　śa ra ṇa 　舍啰拏　归
+
+　　śā nta 　扇多　息
+
+　　ska nda 　娑建驮　静
+
+　　bhu ja 　步惹　肩
+
+　　va kṣa 　嚩(无拨反)乞洒　胸
+
+　　a bhye nta ra 　阿便(上)多罗　里
+
+　　yu dvaḥ 　庾驮(入)　战
+
+　　a ddhā la 　阿弩(引)攞　遂
+
+　　mo ṭṭa 　暮吒(重)　肥
+
+　　pa na ka pi va 　播曩迦比缚　饮
+
+　　ā ha ra 　阿(引)贺啰　食
+
+　　bhaḥ ta 　薄(入)多　饭
+
+　　śā ka 　舍(引)迦　菜
+
+　　la va ṇa 　攞博拏　盐
+
+　　śu kta 　束多　酢
+
+　　bhī va ṇa 　毗(引)嚩拏　羹
+
+　　dra va 　捺罗(二合)嚩　𦞦
+
+　　ma ṇḍa 　曼拏　饼
+
+　　pha la 　颇攞　果
+
+　　mo da ka 　慕娜迦　喜
+
+　　la tu ka 　懒睹迦　团
+
+　　gu ṇa 　虞拏　糖
+
+　　i kṣu 　伊乞刍(二合)　蔗
+
+　　a sva da 　阿娑嚩(二合)(引)娜　啖
+
+　　ca rva 　折嚩　嚼
+
+　　sā dra ka 　阿(引)捺罗(二合)迦　姜
+
+　　tuṃ bu ru bha pha la 　睹唵(二合)母噜颇攞　椒
+
+　　ma ri ca 　摩利遮　胡椒
+
+　　rā yī 　啰(引)移　芥
+
+　　sa rṣa pa 　萨利杀(二合)跛　白芥
+
+　　pi ṇḍa lo 　宾(去)拏噜　芋
+
+　　pa ca 　跛左(上)　煮
+
+　　pa kka 　博迦(重)　熟
+
+　　a nu mā na 　阿拏摩(引)曩　斟
+
+　　da rvi u tto la 　捺喇尾邬妒攞　酌
+
+　　gu ra va 　虞(鱼娇反)啰缚　恭
+
+　　ā pe kṣa 　阿(引)闭乞叉(二合)　敬
+
+　　dha ra 　驮啰　持
+
+　　dī ya taṃ 　你(泥以反)也担(引)　与
+
+　　phe la 　脾攞　盘
+
+　　pa tra 　播怛啰(二合)　盂
+
+　　e kā ta 　颖迦(引)多　屏
+
+　　phe ḍa 　脾拏　却
+
+　　sva sti ka sa na 　娑嚩(二合)娑底(二合)迦娑曩　踞
+
+　　ve śśa 　吠舍(重)　坐
+
+　　a pi la 　阿枇攞　小
+
+　　kha ṭṭa 　朅吒(重)　床
+
+　　gra cṛ 　仡罗(二合)戚(戚以反)哩(二合)　返
+
+　　va ndha 　满驮　系
+
+　　va stra 　嚩(无拨反)娑怛罗(三合)　衣
+
+　　ko ṇa 　句拏　角
+
+　　bhuṃ ja 　盆惹　餐
+
+　　sa ma pta 　三摩跛多(二合)　罢
+
+　　saṃ cā ra 　散左(引)啰　迁
+
+　　sthā na 　娑佗(二合)(引)曩　位
+
+　　da nta 　难多　齿
+
+　　kā ṣṭa 　迦(引)瑟姹(重)　木
+
+　　kaṃ ka da 　兢迦娜　梳
+
+　　dho va 　度嚩　濯
+
+　　gā va 　誐(引)嚩　牛
+
+　　śa kṛ tu 　舍讫里(二合)睹　粪
+
+　　pra le pa 　钵罗(二合)隶跛　涂
+
+　　pu cchi da 　奔砌娜　拭
+
+　　ṣā ca 　沙(引)左　洗
+
+　　pra kṣa li ta 　钵罗(二合)乞洒(二合)理多　涤
+
+　　ka lā ci 　迦攞(引)止　匙
+
+　　ca ṅṭu 　折跓(吒邬反)　杓
+
+　　ko ṣṭi ka 　俱瑟耻(二合)迦　仓
+
+　　gaṃ ja 　献惹　库
+
+　　ra ddha na śā la 　罗驮曩舍(引)攞　厨
+
+　　śā la ma ṇḍa pi 　舍(引)攞曼拏比　厅
+
+　　saṃ ca ya 　散左也　储
+
+　　ṭha va su kha 　诧跛素(上)佉　安
+
+　　sthā lī 　娑佗(二合)(引)梨　釜
+
+　　ka ṭṭa ha 　迦吒(重)贺　镬
+
+　　ccha ri ā yu dha 　措哩阿(引)庾驮　刀
+
+　　dā traṃ 　娜(引)怛览(二合)　镰
+
+　　gha ṭa 　伽(上)吒　𤬪
+
+　　ku dbha 　君(上)婆(上)　瓮
+
+　　ku ṭā rī 　矩姹(引)哩(引)　斧
+
+　　śu rpa 　戍(书聿反)跛　箕
+
+　　ra jju 　罗儒(重)　绳
+
+　　va ra traṃ 　嚩啰怛览(二合)　索
+
+　　a ti kra ma 　阿底讫罗(二合)摩　违
+
+　　vi lo ma 　尾路摩　拒
+
+　　ra ja śā sa na 　啰惹(引)舍(引)娑曩　教
+
+　　e ke ka 　曀计迦　条
+
+　　ra ja ku la 　啰惹俱攞　官
+
+　　a dhi ka ra ṇa 　阿地迦罗拏　司
+
+　　grā ha 　仡罗(二合)(引)贺　执
+
+　　va ndha 　满驮　缚
+
+　　pa ri pa la 　跛哩播(引)攞　养
+
+　　śa rī ra 　设利(引)啰　身
+
+　　jā nī hi 　惹(引)你(引)呬　知
+
+　　ma nda 　满娜　患
+
+　　mja ra 　摩惹(二合)啰　本
+
+　　sa hā ya 　沙诃(引)也　遂
+
+　　śā nti 　扇(引)底　静
+
+　　e kā kī mu kta 　曀迦(引)枳穆多　栖
+
+　　va na 　嚩曩　林
+
+　　ta na 　多拏　薄
+
+　　e kā gra ma na 　曀迦(引)仡罗(二合)摩曩　专
+
+　　ca ryā 　左哩也(二合)(引)　崇
+
+　　sva bhu mi 　娑嚩(二合)步弭　社
+
+　　pra bhu ta 　钵啰(二合)步多　多
+
+　　e ka ci nta 　曀迦止多　志
+
+　　śī ghra 　始伽罗(二合)　急
+
+　　saṃ pra ṣa 　三钵罗(二合)洒　遣
+
+　　e ta 　曀多　斯
+
+　　sī va na 　枲(引)缚那　封
+
+　　la gna 　攞仡曩(二合)　着
+
+　　va sa nta 　嚩散多　春
+
+　　ha la 　贺攞　耕
+
+　　vā vi 　嚩(引)尾　种
+
+　　va vaḥ 　嚩嚩(无博反)　植
+
+　　ā he ṭa 　阿(引)系吒　畎
+
+　　kṣe tu 　乞差(二合)睹　亩
+
+　　sa mā ra 　娑摩(引)啰　营
+
+　　kṛ ṣi 　讫里(二合)史　农
+
+　　u dgha ṭa 　嗢娜伽(二合)吒　决
+
+　　pu ṣka la ṇī 　补洒迦(二合)攞抳　池
+
+　　a va tā ra 　阿嚩哆(引)啰　降
+
+　　va rta 　缚啰多　泽
+
+　　ha ra 　贺啰　犁
+
+　　ma thi 　么体(池以反)　耢
+
+　　dā na 　檀曩　施
+
+　　śra ma ṇa 　舍罗(二合)摩拏　功
+
+　　sā la sya 　阿(引)攞写　懒
+
+　　ka ddhā va 　迦驮婆(二合)婆　夫
+
+　　su ryo da ya 　素哩𡀍(二合)娜也　晨
+
+　　śa ya ti 　舍也底　寐
+
+　　u myu kta 　嗢你庾(二合)迦多　勤
+
+　　sa tyu ru ṣa 　萨底庾(二合)噜洒　士
+
+　　rā trī 　啰(引)怛唎(二合)(引)　宵
+
+　　u di ta 　坞你多　兴
+
+　　ma sa tra ka 　么娑怛啰(二合)迦　鞭
+
+　　la ku ṭā 　攞矩吒(引)　杖
+
+　　śa ka ṭa 　舍迦吒(上)　车
+
+　　yu ga 　俞誐　舆
+
+　　kha ra 　佉(上)罗　驴
+
+　　bhā ra 　婆罗　驮
+
+　　a śva 　阿湿嚩(二合)　马
+
+　　ya na 　野曩　乘
+
+　　pha ra 　颇罗　排
+
+　　śa kti 　铄底　槊
+
+　　dha nta ṣi 　驮拏筛　弓
+
+　　ka ṇḍa 　建拏　箭
+
+　　śa tu 　设睹(引)　逆
+
+　　a ḍa lo ma 　阿弩路摩　顺
+
+　　bhā ga 　婆(引)誐　分
+
+　　pa ti ta 　钵底多　崩
+
+　　dhā nya 　驮(引)你也(二合)(鼻音)　稻
+
+　　ti la 　底攞　麻
+
+　　sa sya 　萨写　豆
+
+　　go dhu ma 　娱度摩　麦
+
+　　ka ra 　迦啰　课
+
+　　bha ra 　婆啰　役
+
+　　va rṣa 　嚩(无拨反)罗洒　年
+
+　　ma rga ya 　末(引)誐也　征
+
+　　śa lā ka 　舍攞(引)迦　筹
+
+　　mā va 　摩(引)嚩　量
+
+　　sa śa ā pha ka 　娜舍阿(引)颇迦　斛
+
+　　ga ṇa nta 　誐𧹞多　数
+
+　　ga ṇa nā 　誐拏曩(引)　计
+
+　　ga ṇi ta 　誐抳多　算
+
+　　sā pha ka 　阿(引)颇迦　斗
+
+　　pra stha 　钵罗(二合)娑他(二合)　升
+
+　　pa ṭṭa 　钵吒(重)　绢
+
+　　bha ga 　畔誐　布
+
+　　ha sta 　贺娑多(二合)　肘
+
+　　vi da sti 　尾娜悉底(二合)　度
+
+　　bhṛ ta ka 　勃哩(二合)多(上)迦　雇
+
+　　a rgha 　阏伽　价
+
+　　ā śra ya 　阿(引)室罗(二合)也　依
+
+　　pra tya ya 　钵啰(二合)底也(二合)也　凭
+
+　　pa ṭṭa su traṃ 　钵吒素怛览(二合)　丝
+
+　　su ta ra 　祖(引)怛啰　缕
+
+　　pi ṭa ka 　比吒迦　箱
+
+　　pi ḍā yī 　比拏(引)以　筐
+
+　　su cī 　素止(引)　针
+
+　　su traṃ 　素怛览(二合)　綖
+
+　　ka rpa 　劫跛　裁
+
+　　sī va 　枲(引)嚩　缝
+
+　　vi thī 　尾(引)体(他以反)　街
+
+　　gī ti 　拟(研以反)底　吟
+
+　　bī dhī ra ccha 　味地啰縒　巷
+
+　　nā da 　曩(引)娜　吼
+
+　　rū ṣṭa 　噜瑟吒(二合)　瞋
+
+　　ha si ta 　贺枲多　笑
+
+　　ma ṅga lya 　瞢誐里也(二合)　吉
+
+　　a ma ṅga lya 　阿瞢誐里也(二合)　凶
+
+　　ccha na 　亲(去)曩　绝
+
+　　śi kha ra 　始佉啰　岭
+
+　　na va 　曩嚩　新
+
+　　aṃ ku ra 　盎矩啰　芝
+
+　　ā ka śa va rṇa 　阿(引)迦舍嚩(无割反)罗拏(二合)　碧
+
+　　pī ṇā 　庇(引)拏(引)　危
+
+　　ku ja 　君(去)惹(自罗切)　峦
+
+　　pu rā ṇa 　补啰(引)拏　旧
+
+　　ke sa ra 　计娑罗　蕊
+
+　　ku sa dbha va rṇa 　俱逊婆袜罗拏(二合)　红
+
+　　u dgha ḍa 　嗢娜迦(二合)拏　解
+
+　　va nva na 　缚怛缚(二合)曩　带
+
+　　pa thya 　钵体也(二合)　宜
+
+　　ā kra ṣa 　阿(引)迦罗(二合)洒　攀
+
+　　bha gga 　畔誐(重)　折
+
+　　sā ma nya 　娑(引)摩你也(二合)(鼻)　共
+
+　　ā ma na 　阿娑曩(半音)　鄙
+
+　　kṣa traṃ 　乞差(二合)怛览(二合)　田
+
+　　gha ra 　伽(上)啰　家
+
+　　pi tā ma hā 　比多(引)摩诃　翁
+
+　　de ya 　祢也　给
+
+　　ā rā ma 　阿(引)罗(引)摩　园
+
+　　ri ṣi 　哩使　仙
+
+　　vṛ kṣa 　没哩(二合)乞叉(二合)　树
+
+　　mṛ ga 　摩哩(二合)誐　鹿
+
+　　u dyā naṃ 　乌你也(二合)(引)南　苑
+
+　　ra ja 　啰(引)惹　王
+
+　　ko ṭṭa 　句吒(重)　城
+
+　　ku tya 　俱底也(二合)　薜
+
+　　gṛ ha 　仡哩(二合)贺(上)　舍
+
+　　ṭa ṅga 　吒(吒降反)誐　梨
+
+　　bi ṣa ya 　尾洒也　国
+
+　　ka ṇpa 　迦攞跛(二合)　劫
+
+　　a na ma na 　阿曩摩曩　比
+
+　　ca lla ni 　左攞(重)你　罗
+
+　　sā dha na 　娑(引)驮曩　营
+
+　　ma ri va rtta 　跛哩袜(无拨反)多　回
+
+　　a va lo ka 　阿嚩路迦　顾
+
+　　prī ti 　必利(二合)底　恋
+
+　　a tya 　阿底也(二合)　别
+
+　　pa kā ra 　跛迦(引)罗　报
+
+　　ā kaṃ kṣa 　阿(引)航(上)乞洒(二合)　望
+
+　　pra sa da 　钵罗(二合)娑娜　恩
+
+　　jā ta 　惹(引)多　生
+
+　　ku ku ṭa 　矩俱吒　鸡
+
+　　śi kha ra 　始佉(上)啰　峰
+
+　　a tta rā na 　頞多啰(引)曩　隐
+
+　　a stha ka 　阿娑体(二合)迦　骨
+
+　　nā ga 　曩(引)誐　龙
+
+　　cchi dra 　七捺啰(二合)　穴
+
+　　a cṛ śya 　阿湿哩(二合)舍也(二合)　潜
+
+　　saṃ sta naṃ 　僧娑多(二合)喃　形
+
+　　dhyā na 　𠆙(引)曩　禅
+
+　　na dī 　曩你(你以反)(引)　河
+
+　　pa nī yaṃ 　播你(引)演　水
+
+　　ga mbhī ra 　严鼻(引)啰　浚
+
+　　śī ra 　施(引)啰　戒
+
+　　gi ri mu rva 　拟哩没(引)驮　巘
+
+　　śai la 　势攞　岩
+
+　　sva ccha 　娑嚩(二合)縒　清
+
+　　ku vja 　俱嚩惹(二合)　俯
+
+　　ka rū ṇi 　迦噜抳　悲
+
+　　ra ja 　啰惹(上)　尘
+
+　　sī mā 　枲(引)摩(引)　界
+
+　　ya thā 　也他(引)　犹
+
+　　ma ryā da 　摩哩也(二合)(引)娜　式
+
+　　ni vā ra ya 　你缚(引)啰也　遮
+
+　　i ccha ti 　伊(上)縒(上)底　听
+
+　　mau trī 　每怛唎(二合)(引)　慈
+
+　　pa tā ka 　跛多(引)迦　幡
+
+　　sa dā 　娑娜(引)　永
+
+　　ka pa 　剑跛　袪
+
+　　pra jñā ma ti 　钵罗(二合)惹摩底　慧
+
+　　u lka 　嗢攞迦(二合)　炬
+
+　　dī rgha 　你(宁一反)伽　长
+
+　　pra bha 　波罗(二合)婆　荧
+
+　　a ḍa la gna 　阿弩攞琅曩(二合)　扶
+
+　　sī ma sa nvi 　枲(引)摩散地　关
+
+　　ṣa ṭ 　杀吒(半)　六
+
+　　ga ti 　誐底　趣
+
+　　u dgha ḍa 　嗢娜伽(二合)拏　开
+
+　　dhe phi ta 　弟纰多　围
+
+　　da śa 　捺舍　十
+
+　　a ddha ka ra 　頞驮迦(引)啰　冥
+
+　　a pa na ya 　阿跛曩也　振
+
+　　bhī ta 　批多　除
+
+　　svi ta jva la 　湿尾(二合)多入嚩(二合)攞　虐
+
+　　bi ṣa 　尾洒　毒
+
+　　ha sta kṣa tra 　曷娑多(二合)诺刹怛罗　轸
+
+　　kṣā nti 　乞铲(二合)(引)底　忍
+
+　　kṛ ṣṇa 　讫哩(二合)瑟拏　黔
+
+　　śa pa ā śca rya 　舍跛阿室左(二合)哩也(二合)　灵
+
+　　vyū ha 　弭庾(二合)(引)贺　严
+
+　　i rya pa thā 　伊哩也(二合)跛他(上)　仪
+
+　　pra ti mā 　钵罗(二合)底摩(引)　像
+
+　　ga ndha ku ṭi ma ṇḍa pa 　誐驮矩知曼拏跛　殿
+
+　　li kha 　理佉(上)　写
+
+　　mo dha ti 　慕驮底　勘
+
+　　śre ṣṭa 　室隶(二合)瑟姹(二合)　尊
+
+　　su traṃ 　素怛缆(二合)　经
+
+　　bu ddha 　没驮　佛
+
+　　dha rmma 　达磨　法
+
+　　stha na 　娑他(二合)曩　处
+
+　　saṃ gha 　僧伽　僧
+
+　　a nu sma ra ṇa 　阿弩娑摩(二合)啰拏　念
+
+　　ā pa tti 　阿钵底　罪
+
+　　la ghu ka 　攞具迦　轻
+
+　　ra ya 　罗也　位
+
+　　prā rtha 　钵啰(二合)(引)啰他(二合)　幸
+
+　　ta tkā la 　怛得迦(二合)(引)攞　当
+
+　　pra kra ma 　钵啰(二合)讫罗(二合)摩　修
+
+　　vya va sthā 　弭也(二合)嚩娑他(二合)(引)　轨
+
+　　śa ka ṭa pa tha 　舍迦吒跛他　辙
+
+　　ni ya ta 　你也多　毕
+
+　　pho kka 　扑迦(重)　至
+
+　　ni rvā ṇa 　你(你逸反)缚(引)拏　涅槃
+
+　　na ga raṃ 　曩誐囕　城
+
+　　ka ṣa ya 　迦(引)洒也　袈裟
+
+　　cī va ra 　支嚩罗　衣
+
+　　ka ra ka 　迦啰迦　瓶
+
+　　pra tra 　钵罗(二合)怛罗(二合)　钵
+
+　　śa ya na 　舍也曩　卧
+
+　　ā sa na 　阿(引)娑曩　具
+
+　　va stra 　嚩娑怛啰(三合)　衣
+
+　　pa rhya ṇa 　钵贺也(二合)拏　裳
+
+　　gha na 　伽曩　厚
+
+　　rā tro pha na 　啰(引)怛路(二合)颇曩　被
+
+　　pa ra ṇa 　钵啰拏　盛
+
+　　ta va na 　多嚩曩　柜
+
+　　e ka pu ṭā 　曀迦补吒(引)　单
+
+　　śa ṭa 　舍吒(上)　裙
+
+　　pra se va 　钵啰(二合)细嚩　袋
+
+　　śā pa tri 　戍钵底哩(二合)　藏
+
+　　prā ṇa ka 　钵罗(二合)(引)拏迦　虫
+
+　　pu ṣa ka 　布洒迦　鼠
+
+　　tra sta 　怛啰(二合)娑多(二合)　恐
+
+　　ca rva ti 　拶嚩底　啮
+
+　　dau va na 　道缚曩　浣
+
+　　śā ṣa ṇa 　戍洒拏　晒
+
+　　pra sā ra 　钵罗(二合)娑(引)啰　舒
+
+　　bi ka sa 　尾迦娑(上)　张
+
+　　va rṇa ka mva la 　袜拏剑摩攞　氍毹
+
+　　pri ṅga 　必陵誐　绫
+
+　　ci tra 　质怛罗　锦
+
+　　su ci ka rmma 　素止羯磨　绣
+
+　　tu lā yi 　妒攞(引)以　褥
+
+　　pra ṇī ta 　钵啰(二合)尼(引)多　芳
+
+　　pra ṇa la 　钵罗(二合)拏(引)攞　檐
+
+　　gra ha 　乞哩(二合)贺　宇
+
+　　va nya 　嚩你也　萧
+
+　　saṃ cya 　僧思也　洒
+
+　　ma nda 　满娜　缓
+
+　　kṣa ma ṇa 　乞縒(二合)跛拏　掉
+
+　　su va rṇu 　苏袜拏(重)　铿
+
+　　śa vya 　舍弭也(二合)(入)　锵
+
+　　a sti 　曷悉底(二合)　有
+
+　　la jja 　攞惹(重)(引)　耻
+
+　　ga nvi le 　献地隶　艾
+
+　　du rga ndha 　讷献驮　臭
+
+　　nā sti 　曩(引)悉底(二合)　无
+
+　　ju gu psā 　儒虞波娑(二合)(引)　嫌
+
+　　ka sto ri 　迦娑妒(二合)利　麝
+
+　　dhu ma 　度波　香
+
+　　sto tra 　娑妒(二合)怛罗(二合)　赞
+
+　　sta va di 　娑多(二合)缚(引)宁(宁以反)　咏
+
+　　gā yi 　誐以　歌
+
+　　tu rī 　睹唎(引)　管
+
+　　bi mu la 　尾补攞　博
+
+　　jū ta 　儒(引)多　奕
+
+　　su ra 　苏(上)啰　酒
+
+　　kaṃ ji 　建尔(此以反)　酱
+
+　　vra hma 　没罗(二合)憾磨(二合)　梵
+
+　　sva ra 　娑嚩(二合)啰　音
+
+　　ccha ṭi ka 　舍置迦　弹
+
+　　ji hva 　尔贺嚩(二合)　舌
+
+　　si ddhaṃ 　悉昙
+
+　　ma ra 　摩多　莫
+
+　　bi sma ra 　尾娑摩(二合)啰　忘
+
+　　pra ṇi dhā na 　钵罗(二合)尼(尼曳反)驮(引)曩　愿
+
+　　e ta tu 　曀多睹　兹
+
+　　la bha 　攞婆(上)　利
+
+　　pra sve da 　钵啰(二合)娑吠(二合)娜　润
+
+　　sa rva 　萨嚩　总
+
+　　na sa ti 　那悉地　洽
+
+　　u tne ka 　嗢怛襄迦　无
+
+　　sī mā 　枲(引)摩(引)　疆
+
+　　tā va tu 　多(引)缚睹　且
+
+　　a ṅga 　盎誐　题
+
+　　a ṣṭa 　阿瑟吒(二合)　八
+
+　　śa ta 　舍多　百
+
+　　a nya 　頞你也(二合)　余
+
+　　sa ma tā 　娑摩哆(引)　皆
+
+　　ni pu ṇa 　你补拏　审
+
+　　pra tya ve kṣa 　钵罗(二合)底也(二合)吠乞洒(二合)　详
+
+　　śī ghra 　施伽罗(二合)　早
+
+　　kā rya 　迦(引)里也(二合)　须
+
+　　a bhyā sa 　阿毗也(二合)(引)娑　习
+
+　　a dbhu ta 　曷娜步(二合)多　奇
+
+　　vya khyā na 　弭也(二合)佉也(二合)(引)曩　说
+
+　　ā di 　阿(引)你(你以反)　始
+
+　　va rtta te 　袜多(重)帝　可
+
+　　pra ti pa nta 　钵啰(二合)底半曩　向
+
+　　pa ra 　跛啰　他
+
+　　de śa 　祢舍　乡
+
+　　kṣa ṇi ka 　乞洒(二合)抳迦　聊
+
+　　śa rī ra pra ka śaḥ 　设哩(引)啰钵罗(二合)迦(引)铄　申
+
+　　śi kṣā 　式乞叉　学
+
+　　bhā ṣa 　婆(引)洒　语
+
+　　ā da śa 　阿(引)捺舍　样
+
+　　ī ccha 　伊(引)縒　岂
+
+　　i ccha 　一縒　欲
+
+　　ya śa 　也舍　耽
+
+　　le khaḥ 　隶法(上)　文
+
+　　li khaḥ 　理佉(入)　章
+
+　　ā di 　阿(引)你(宁以反)　初
+
+　　he tu 　系睹　因
+
+　　ka rmma 　羯磨　业
+
+　　bi pā ka pra tyu va ca 　尾播迦钵罗(二合)底庾缚(引)左　报
+
+　　a śṛ ta 　阿室哩(二合)多　托
+
+　　pra ti bi mca 　钵罗底尾摩借　形
+
+　　mā tu 　摩(引)睹　母
+
+　　ga rbha 　蘖婆　胎
+
+　　ā 　阿(引)　无
+
+　　bi dyā 　尾你也(二合)(引)　明
+
+　　vī ja 　味惹　种
+
+　　pu tra 　补怛罗　子
+
+　　kṛ yā 　讫哩(二合)也(引)　造
+
+　　kā ra ka 　迦(引)啰迦　作
+
+　　mu la 　慕攞　根
+
+　　vā bi 　嚩(引)尾　栽
+
+　　bi jñā na 　尾枳攘(二合)(引)曩　识
+
+　　sa pu ha 　娑慕贺(上)　聚
+
+　　he tu 　系睹　因
+
+　　u ndi ta 　嗢体(他以反)多　起
+
+　　na ma 　曩(引)摩　名
+
+　　rū pa 　噜(引)跛　色
+
+　　la kṣa ṇa 　洛乞叉(二合)拏　相
+
+　　mā śṛ nyā 　摩(引)室哩(二合)你也(二合)　依
+
+　　ṣa ḍā 　洒拏(引)　六
+
+　　ya ta naṃ 　也多南　处
+
+　　bha va ti 　婆嚩底　既
+
+　　kaṃ pa 　剑跛　剖
+
+　　spa rśa ṣṭa 　娑钵(二合)罗舍瑟吒(二合)　触
+
+　　a ṅga 　盎誐　支
+
+　　pu na ra pi 　布曩啰庇　复
+
+　　phe ḍa 　币荼　推
+
+　　ve da na 　吠娜曩　受
+
+　　i ṣṭa 　伊瑟吒(二合)　爱
+
+　　tṛ ṣṇā 　怛哩(二合)瑟拏(二合)(引)　贪
+
+　　bi ṣa ya 　尾洒也　境
+
+　　gṛ hṇa 　疙哩(二合)佷拏(二合)　取
+
+　　a sti 　阿悉底(二合)　有
+
+　　e ta tu 　曀多睹　斯
+
+　　u dgha ḍa 　嗢娜伽(二合)拏　开
+
+　　dṛ ṣṭa 　涅哩(二合)瑟吒　见
+
+　　jā ta 　惹(引)多　生
+
+　　cya kta 　籍多　虽
+
+　　tu ṣṭa 　睹瑟吒(二合)　喜
+
+　　vṛ ddha 　没哩(二合)驮　老
+
+　　mṛ ta 　摩哩(二合)多　死
+
+　　ni va rtta 　你袜多　还
+
+　　ru da na tu 　噜娜曩睹　哀
+
+　　u dve ga 　嗢弟誐　忧
+
+　　ka ru ṇa 　迦噜拏　悲
+
+　　pu rva a nā di 　补(晡设反)嚩阿曩(引)你(宁以反)　始
+
+　　ga ta 　誐多　去
+
+　　duḥ kha 　耨佉(上)　苦
+
+　　kle śa 　讫隶(二合)奢　恼
+
+　　a tta 　阿多(重)　终
+
+　　ā ga ta 　阿(引)誐多　来
+
+　　ya thā 　也他(引)　如
+
+　　ca kra 　斫讫罗(二合)　轮
+
+　　gha ṭa ka 　伽吒迦　环
+
+　　sya 　写　之
+
+　　pa ri va rtta 　跛哩袜多　转
+
+　　ya di 　也你(宁以反)　若
+
+　　kā ṇḍa 　建(引)拏　箭
+
+　　sya 　写　之
+
+　　śī ghrū 　施伽路(二合)　催
+
+　　ku śa la 　矩舍攞　善
+
+　　vā sa 　嚩(引)娑　居
+
+　　de va 　祢嚩　天
+
+　　u dya na 　嗢你也(二合)曩　苑
+
+　　bi rū pa 　尾噜(引)跛　恶
+
+　　sghā na 　娑伽(二合)(引)曩　处
+
+　　u ṣṇa 　坞瑟拏(二合)　煻
+
+　　kṣā rū 　乞洒(二合)(引)路　煨
+
+　　bi dyā 　尾你也(二合)(引)　明
+
+　　a va śya 　阿缚始演(二合)　可
+
+　　śra ddhā 　室啰(二合)驮　信
+
+　　va hu da ka śa va 　嚩虎娜迦舍嚩　浩
+
+　　kṣa ma 　乞叉(二合)摩　宁
+
+　　ta rka 　怛迦　猜
+
+　　ca tvā ra 　左多嚩(引)啰　四
+
+　　jā ti 　惹(引)底　生
+
+　　pu na 　补曩　频
+
+　　pa ta ti 　钵多底　落
+
+　　ta ṭa ka 　多吒迦　泊
+
+　　ṣa tyo nī 　洒睹愈(二合)你　六趣
+
+　　ka ti 　迦底　几
+
+　　a va rtta 　阿袜多　徘
+
+　　ni va rtta 　你袜多　徊
+
+　　sna ha 　娑曩(二合)贺　眷
+
+　　va ca naṃ 　嚩左南　言
+
+　　pra kā śa 　钵啰(二合)迦(引)舍　明
+
+　　jñā na 　惹拏(二合)(引)曩　智
+
+　　va tta 　嚩多(重)　者
+
+　　va stu 　嚩娑睹(二合)　事
+
+　　mya kta 　藐多　可
+
+　　gha ti ta 　伽底多　伤
+
+　　ka ṣṭa 　迦瑟吒(二合)　哉
+
+　　śī ra 　始啰　头
+
+　　a kṣi 　恶乞使　目
+
+　　ka rṇa 　羯拏　耳
+
+　　na sa 　曩娑　鼻
+
+　　u ṣṭa 　污瑟吒(二合)　唇
+
+　　a sya 　阿(引)写　口
+
+　　daṃ ṣṭra 　能(上)沙吒罗(三合)(引)　牙
+
+　　ga la 　誐攞　咽
+
+　　la lā ṭa 　攞攞(引)吒　额
+
+　　grī vā 　纥哩(二合)缚(引)　项
+
+　　ro mā 　路摩(引)　毛
+
+　　vā la 　嚩(引)攞　发
+
+　　ji hva 　尔贺嚩(二合)　舌
+
+　　me dhe ṭa 　迷弟吒　卷
+
+　　kro ḍa 　句路(二合)拏　胸
+
+　　la mvi ta 　蓝弭多　悬
+
+　　tā lu 　哆(引)噜　喉
+
+　　bhi nna 　牝曩　缺
+
+　　ska ndha 　娑建(二合)驮　肩
+
+　　na kha 　曩佉(上)　甲
+
+　　va hu 　嚩虎　臂
+
+　　sa ndhi 　散地　腕
+
+　　pa ra spa ra 　跛啰娑波(二合)罗　相
+
+　　la gna 　洛仡曩(二合)　连
+
+　　sna yu 　娑曩(二合)庾　筋
+
+　　si rā 　枲啰(引)　脉
+
+　　vra ṇa 　没啰(二合)拏　疮
+
+　　pā ma 　播摩　疥
+
+　　a ṅgu le 　盎虞隶　指
+
+　　pa rva 　钵嚩　节
+
+　　sa hi ṇa 　萨呬拏　纤
+
+　　sta na 　娑多(二合)曩　骈
+
+　　ka ṭi 　迦置　腰
+
+　　pṛ ṣṭa 　跛哩(二合)瑟姹(二合)　背
+
+　　gha na ra 　伽曩罗　乳
+
+　　pā ra śva 　播(引)罗湿嚩(二合)　肋
+
+　　vṛ ka 　没力(二合)迦　肾
+
+　　a ṅgu śa 　盎虞舍　勾
+
+　　ā ka rṣa 　阿(引)羯洒　牵
+
+　　na bhi 　曩毗(上)　脐
+
+　　dvau 　弩舞(二合)(引)　面
+
+　　pā ra śva 　播(引)啰湿嚩(二合)　胁
+
+　　aṃ ttra 　盎怛罗(二合)　肠
+
+　　pe ṭṭā 　闭吒(重)(引)　肚
+
+　　e ka 　曀迦(上)　一
+
+　　pā ra śva 　播(引)啰湿嚩(二合)　边
+
+　　gu thā 　虞他　屎
+
+　　mu tra 　母怛罗(二合)　尿
+
+　　bha ri ta 　婆(上)哩多　充
+
+　　bha ri ta 　婆哩多　塞
+
+　　svi ja 　娑比(二合)惹　臗
+
+　　ka ṭi pā rśa 　迦知播(引)罗舍　胯
+
+　　ti ri sa 　底哩縒　敧
+
+　　bi sa ta 　尾娑多　偏
+
+　　ca rmma 　拶摩　皮
+
+　　ma ṅga 　摩(引)誐　肉
+
+　　a sthi 　阿娑体(二合)　骨
+
+　　ma jjā 　满惹(重)(引)　髓
+
+　　pā ka 　播(引)迦　脓
+
+　　ru dhi ra 　噜地啰　血
+
+　　sa ma nta 　娑曼多　周
+
+　　pra tya 　钵罗(二合)底也(二合)　缘
+
+　　u rū 　污噜(引)　䯗
+
+　　u ru 　乌噜　腿
+
+　　ja ṅgha 　攘伽(上)　𨄔
+
+　　jā ḍa 　惹(引)拏　膝
+
+　　ma ṇḍa la 　曼拏攞　胫
+
+　　gu lpha 　虞攞颇(二合)　腂
+
+　　ca kra 　斫讫罗(二合)　脶
+
+　　bī ṣa 　庇(引)洒　胼
+
+　　ha sta 　贺娑多(二合)　手
+
+　　pā da 　播(引)娜　足
+
+　　ni śca ta na 　你室制多曩　顽
+
+　　pra su pi ka 　钵啰(二合)苏(苏色反)比迦　痹
+
+　　sa rva kā la 　萨嚩迦(引)攞　恒
+
+　　va ha ti 　嚩贺底　流
+
+　　sre ṣpa 　室隶(二合)涩摩(二合)　唾
+
+　　rā la 　罗(引)攞　涎
+
+　　a ho ka ṣṭa 　阿护迦瑟吒(二合)　呜呼
+
+　　du rga ndha 　讷献驮　臭
+
+　　pu rī ṣa 　补利(引)洒　秽
+
+　　śa rī raṃ 　设利览　体
+
+　　a pu rva 　阿补(引)嚩　奇哉
+
+　　ma nu ṣa 　摩拏洒　人
+
+　　sa ma 　娑摩　并
+
+　　prī ti 　必利(二合)底　怜
+
+　　pra tha na 　钵罗(二合)他曩　请
+
+　　jā na ti 　惹(引)曩底　知
+
+　　jā ta 　惹(引)多　生
+
+　　a sti 　阿悉底(二合)　有
+
+　　a pa rā dha 　阿跛啰驮　过
+
+　　ma 　摩　莫
+
+　　ta hi 　多呬　向
+
+　　mu ta 　母多　死
+
+　　rā jā 　啰(引)惹(引)　王
+
+　　a gra ta 　阿仡啰(二合)多　前
+
+　　cī nā 　斯曩　唐
+
+　　kṣa ra 　乞叉(二合)啰　字
+
+　　sa ha sra 　娑贺(上)娑罗(二合)　千
+
+　　mā lo 　摩(引)噜　鬘
+
+　　ā rya 　阿(引)哩也(二合)　圣
+
+　　bhā ṣa 　婆(引)洒　语
+
+　　sma pta 　娑摩跛多　竟
+
+　　梵语千字文(终)
+
+　　kṛ ti ra 　作
+
+　　cā rya 　阿阇梨
+
+　　va hu 　多
+
+　　śrū ta 　闻
+
+　　tri pi ṭa bha da tta 　三藏
+
+　　pa rā 　胜
+
+　　mā thā 　义
+
+　　de va 　天
+
+　　sya 　之
+
+　　pu ṇya 　福
+
+　　jā tta 　生
+
+　　ma tā 　母
+
+　　pi tra 　父
+
+　　cā rya 　师
+
+　　u pā dhyā 　和上
+
+　　pu rva 　先
+
+　　gā mi 　行
+
+　　sa rva 　一切
+
+　　sa tva 　有情
+
+　　a nu tta ra 　无上
+
+　　sa 　正
+
+　　mya 　等
+
+　　ksaṃ 　正
+
+　　vo dha ya 　觉
+
+　　vī rya 　精进
+
+　　de va na 　天此
+
+　　li khi ta 　写
+
+　　sa tvā 　有情
+
+　　ku śa la 　善
+
+　　ja taṃ 　生
+
+　　梵唐消息(附)
+
+　　de va 　泥嚩　天
+
+　　pṛ thi vī 　卑哩底尾　地
+
+　　a di tya 　阿你底也(二合)　日
+
+　　ca ndra 　先太罗　月
+
+　　da kṣa tra 　那乞叉(二合)怛罗(二合)　星
+
+　　vā ta 　嚩(引)多　风
+
+　　vṛ ṣṭi 　嚩哩(二合)史吒　雨
+
+　　hi ma 　呬摩　云
+
+　　a bhra 　阿婆罗(二合)　阴
+
+　　ni rma la 　涅摩洛　晴
+
+　　śī ta 　使(引)多　寒
+
+　　u ṣṇa 　于瑟拏　热
+
+　　pa rva ta 　波罗嚩(二合)多　山
+
+　　vṛ kṣa 　婆力乞叉(二合)　树
+
+　　ka ṣṭa 　迦(引)瑟吒　木
+
+　　pa ttra 　钵多罗(二合)　叶
+
+　　pu ṣpa 　布史波　花
+
+　　pa ṣā ṇa 　播洒(引)拏　石
+
+　　pā su tti ka 　波索底迦　土
+
+　　na di 　那持　河
+
+　　sa mu dra 　三文捺罗　海
+
+　　u da ka 　于娜迦　水
+
+　　si ka ta 　悉迦多　沙
+
+　　u tma 　于太末　高
+
+　　a va ta la 　阿嚩多罗　下
+
+　　ma hā 　摩含　大
+
+　　a gha bā la 　阿佉波罗　小
+
+　　bha lla 　婆攞　好
+
+　　bi rū ma 　尾噜(引)波　恶
+
+　　sma ṣṭa 　娑摩瑟吒　平
+
+　　sa mya 　三弭也(二合)　正
+
+　　ki ta ccha 　纪多车　侧
+
+　　ma rśva 　钵罗湿嚩　偏
+
+　　a ghrī sā di ka 　阿伽里娑侄迦　丑
+
+　　rū pa vaṃ sa 　噜波鑁娑　端
+
+　　śa ra ṇa 　舍罗拏　屋
+
+　　gṛ ha 　仡哩(二合)贺　宅
+
+　　ddhā ra 　驮嚩(二合)罗　门
+
+　　ga va kṣa 　哦嚩乞叉　窗
+
+　　ka nda ra 　瓦
+
+　　gha sa 　伽娑　草
+
+　　pa rki ṭa 　博佉吒　砖
+
+　　kā ṇḍa 　间拏　椽
+
+　　sta mvaḥ 　娑担婆(入)(重呼)　柱
+
+　　ku mbha 　句(引)婆　井
+
+　　ka nda bha dvī 　建娜波持　灶
+
+　　ta ṣṭa 　多瑟吒(二合)　碗
+
+　　ka la cī 　迦攞(引)此(引)　匙
+
+　　ka dvī 　箸
+
+　　ya ṅga 　竹
+
+　　na ra ḍā 　捺剌柁　苇
+
+　　ka ra śa 　迦罗赊　瓶
+
+　　ku mbha 　宫婆　瓮
+
+　　ku ṇḍa la 　军拏罗　盆
+
+　　śa ka ṭa ra thā 　舍迦吒罗他　车
+
+　　pa śu 　波戍　牛
+
+　　a śva 　阿湿嚩　羊
+
+　　ha ya 　可野　马
+
+　　kha ra 　佉(上)啰　驴
+
+　　u ṣṭra ka ra bha 　乌瑟吒罗迦罗婆　驼
+
+　　śvā na 　湿婆那　狗
+
+　　pā jī 　波(引)尔(引)　鹰
+
+　　se ṇa 　势拏　鸡
+
+　　ma kṣi ṇa 　波乞史拏　鸟
+
+　　mṛ ga 　末栗哦　兽
+
+　　bhū ta 　步多　鬼
+
+　　ya kṣa 　野乞叉　神
+
+　　ga rja 　蘖惹　象
+
+　　pā dā 　波(引)娜(引)　与
+
+　　u tkṣi 　郁底乞叉　擎
+
+　　te hi 　泥呬　运
+
+　　ta na ya 　多乃野　打
+
+　　mā ra ya 　摩罗也　杀
+
+　　jī va da 　尔(引)鑁多　活
+
+　　kṣi ghra 　乞史(二合)伽罗(二合)　急
+
+　　ca nai śi thi la 　舍乃室体罗　缓
+
+　　ṭī pa 　智波　紧
+
+　　ka lā pa 　迦啰(引)波　束
+
+　　va ndha 　满驮　缚
+
+　　śi ra 　室罗　头
+
+　　bā ra ke śa 　婆罗计舍　发
+
+　　bhrū 　补噜　眉
+
+　　ca kṣu 　斫乞刍　眼
+
+　　na sa 　曩娑　鼻
+
+　　ka rṇu 　迦啰拏(二合)　耳
+
+　　sā syu 　阿(引)娑喻　口
+
+　　ga ṇḍa 　键拏　颊
+
+　　u ṣṭa 　乌瑟吒　唇
+
+　　ji hva 　尔贺嚩(二合)　舌
+
+　　daṃ ṣṭra 　坛瑟吒罗　牙
+
+　　da nta 　坛怛　齿
+
+　　mu kha 　目佉　面
+
+　　grī va 　疑啰嚩　项
+
+　　va kṣu 　嚩乞刍　胸
+
+　　ha sta 　贺娑多　手
+
+　　pa da 　波驮　脚
+
+　　pṛ ṣṭa 　钵力(二合)瑟吒(二合)　脊
+
+　　ku kṣi 　俱乞史　肚
+
+　　hṛ dā ya 　呵哩娜也　心
+
+　　ma na 　末那　意
+
+　　dā sa 　驮(引)娑　奴
+
+　　da si 　驮斯　婢
+
+　　ka tva va ra 　迦多嚩婆罗　兵
+
+　　su va rṇḍa 　素袜拏　金
+
+　　ru mya 　卢波也　银
+
+　　pa mya 　波拏　钱
+
+　　pa ṭṭa 　波吒(重)　绢
+
+　　u ṣvrī 　乌史婆罗　布
+
+　　ci ttra 　七多罗　锦
+
+　　mu sā ra 　母娑(引)啰　玉
+
+　　ra tna 　啰多那　宝
+
+　　sva sva 　莎缚娑陀　安稳
+
+　　pṛ ccha 　波里车　问讯
+
+　　pi ttra 　卑跢罗　父
+
+　　mā tā 　莽(引)多(引)　母
+
+　　je ṣṭa bhrā ta 　请瑟吒(二合)部罗(引)多　兄
+
+　　tra nya sa bhrā tā 　迦你也(二合)娑部罗多　弟
+
+　　je ṣṭa bha gi ni 　请瑟吒(二合)婆疑你　姊
+
+　　ka nya sa bha gi ni 　迦你也(二合)娑婆疑你(引)　妹
+
+　　ma dhu ra 　摩头罗　甘
+
+　　ti kta 　土多　苦
+
+　　aṃ vṛ 　暗婆里　酢
+
+　　ṭhā ṅga 　党哦　梨
+
+　　tra pu sa 　多罗布娑　黄瓜
+
+　　gu ya ra 　俱夜罗　瓜
+
+　　va ra ha 　嚩罗呵　楮
+
+　　śa ya 　舍也　纸
+
+　　ma ṣi 　摩史　墨
+
+　　ka lā ma 　迦攞(引)么　笔
+
+　　ri kha 　里佉　书
+
+　　ga ṇa ta 　哦拏多　算
+
+　　e ka 　曀迦　一
+
+　　ddha ya 　驮婆野　二
+
+　　tra ya 　多罗也　三
+
+　　ca tu ra 　者都罗　四
+
+　　paṃ ca 　半者　五
+
+　　ṣa ṭī 　娑智　六
+
+　　sa pta 　娑波多　七
+
+　　a ṣṭa 　阿瑟吒(二合)　八
+
+　　na va 　那嚩　九
+
+　　da śa 　驮舍　十
+
+　　bi śa 　尾舍　二十
+
+　　tri śa 　咥林舍　三十
+
+　　ca tva ri śa 　左多婆罗舍　四十
+
+　　paṃ cā śa 　半左(引)舍　五十
+
+　　ṣa ṣṭī śa 　娑瑟知舍　六十
+
+　　sa pta 　娑波多　七十
+
+　　a ṣa ti 　阿舍底　八十
+
+　　na ba ti 　那婆底　九十
+
+　　śa ta 　设多　百
+
+　　sa ha sra 　娑贺娑罗　千
+
+　　na yu ta 　那逾多　万
+
+　　la kṣa 　攞乞叉　亿
+
+　　ko ṭī 　俱智　兆
+
+　　dha ni vāṃ 　陀尼梵　富
+
+　　ku lī na 　俱里那　贵
+
+　　nī ca 　贱
+
+　　da ri dra 　娜哩捺罗(二合)(引)　贫
+
+　　va hu 　嚩睺　多
+
+　　sta ka 　娑多迦　少
+
+　　dī rgha 　陈啰伽　长
+
+　　hra sva 　呵罗莎婆　短
+
+　　su nu 　索乃　儿
+
+　　pu tra 　布多罗　子
+
+　　nu hi 　讷呬　女
+
+　　bha rya 　婆里也　妻
+
+　　pa tti 　钵底　妾
+
+　　rā ja 　罗惹　王
+
+　　pa ra ṇa ya ka 　钵罗拏野迦　臣
+
+　　ṭa ku ra 　吒俱罗　宫
+
+　　pṛ gu 　波里瞿　米
+
+　　a ṭa ka ṇi 　阿吒迦抳　面
+
+　　i dha na 　伊陀那　柴
+
+　　a gā ra 　阿哦罗　炭
+
+　　bha sma 　婆娑摩　灰
+
+　　a gni 　阿疑你(二合)　火
+
+　　tai la 　带攞　油
+
+　　ghṛ ta 　伽哩(二合)多　酥
+
+　　mā kṣī ka 　摩乞叉迦　蜜
+
+　　śu ṇṭha 　戍拏吒(二合)　姜
+
+　　nāṃ raṃ ga 　览哦　橘
+
+　　gī ta 　疑多　歌
+
+　　dṛ tya 　那里底也　舞
+
+　　ve ri 　吠里　鼓
+
+　　va śa 　万舍　笛
+
+　　bī na 　尾那　箜篌
+
+　　su ghā ṣa ka 　索伽沙迦　笙
+
+　　va ṇḍa nya 　嚩怒你也　学问
+
+　　a ya sa 　阿夜娑　辛
+
+　　duḥ kha 　特佉　苦
+
+　　dū ra 　怒(引)罗　远
+
+　　sa mi 　娑弭　近
+
+　　dai a ṇa sya 　忧
+
+　　ka ru ṇa 　迦噜拏　悲
+
+　　ru da na 　噜驮那　哭
+
+　　ha sya 　呵娑也(二合)　笑
+
+　　va ca na 　嚩左那　语
+
+　　a bhi ga ma na 　阿尾哦摩那　迎
+
+　　a nu pra ja na 　阿耨婆罗惹那　送
+
+　　ba nda na 　万驮那　拜
+
+　　na ma ska ra 　曩摩索迦罗　跪
+
+　　ā kro śa 　阿(去)矩卢舍　骂
+
+　　ma ri bhā ṣa ṇa 　波里婆(引)沙拏　辱
+
+　　ddhe ṣa 　弟沙　瞋
+
+　　ro ṣa 　噜沙　喜
+
+　　a haṃ 　阿含　我
+
+　　tva ntu 　多梵都　你
+
+　　sva ccha 　娑嚩(二合)车　清
+
+　　ka rṣa 　迦罗沙　浊
+
+　　gaṃ bhī ra 　俨毗罗　深
+
+　　la ddha 　攞驮　浅
+
+　　prā pta 　钵啰(二合)(引)波多(二合)　得
+
+　　bi ni ga 　失
+
+　　ma tsa rya 　悭
+
+　　la bha 　攞婆　贪
+
+　　vyā pā ta 　嫉
+
+　　a bhi dya 　阿毕你也　妒
+
+　　bhi kṣa 　尾乞叉　乞
+
+　　yā ca 　夜(引)左　索
+
+　　pro kṣa 　波礼乞者　求
+
+　　ga ve ṣe 　觅
+
+　　bha ya 　婆野　恐
+
+　　ccha bhi ta 　车美多　怖
+
+　　ma rga 　摩罗哦　道
+
+　　ku śa la 　俱舍攞　善
+
+　　sva ra 　萨嚩(二合)啰　音
+
+　　śa vda 　摄那　声
+
+　　jñā taṃ 　惹抳担　知
+
+　　na ṅa ni ta 　那仰抳多　不知
+
+　　dṛ ṣṭa 　涅哩(二合)瑟吒(二合)　见
+
+　　na pa śya mi 　捺波舍也(二合)(引)弭　不见
+
+　　ve ri jā hi 　弊里惹(引)呬　识
+
+　　na bi jñā ta 　那尾惹那多　不识
+
+　　śrū ta 　输噜(二合)多　闻
+
+　　na śrū ta 　曩输噜(二合)多　不闻
+
+　　bi vo dha 　尾冒驮　觉
+
+　　na bi bu ddha 　那尾没驮　不觉
+
+　　me dya 　昧娜也　酒
+
+　　ma ṅga 　么(引)(上)誐　肉
+
+　　ma ṇḍa 　摩拏　饼
+
+　　śā ka 　舍(引)迦　菜
+
+　　i ṣṭa 　伊瑟吒　爱
+
+　　a pri ya 　阿毕里(二合)耶　憎
+
+　　ti nda 　嫌
+
+　　pu ttra 　弗多罗　子
+
+　　pau ttra 　苞多罗　孙
+
+　　a hṛ ya 　阿吉里也　唤
+
+　　pra hma ṇa 　钵罗拏　客
+
+　　sva mi 　莎嚩(二合)弭　主
+
+　　ma ryā da 　摩里也驮　礼
+
+　　a rtha 　曷罗他(二合)　义
+
+　　śra ddhā 　舍罗驮　信
+
+　　śā nta 　舍阑多　困
+
+　　ni pa ntra 　𩕳半多罗　请
+
+　　pra bha śa 　波罗(二合)婆舍　明
+
+　　a ndha kā ra 　闇吐迦(引)啰　暗
+
+　　ka ṭi 　迦知　腰
+
+　　jā ḍa 　惹(引)拏　膝
+
+　　caṃ ku ma 　相矩摩　行
+
+　　ti ṣṭa 　底瑟吒(二合)　住
+
+　　śau ta 　澡多　卧
+
+　　kha ṭṭa 　佉吒　床
+
+　　ta la sī 　多攞四　席
+
+　　na va da 　捺婆娜　毡
+
+　　bi tā na 　尾跢那　毾
+
+　　śva na ṣa 　靴
+
+　　pu la 　补攞　鞋
+
+　　ma sya mī na 　末写弭(引)那　鱼
+
+　　pa kṣa 　播乞叉　熟
+
+　　bhu kṣa 　部乞叉　饥
+
+　　bhya pta 　弊波多　饱
+
+　　ma tta kṣī va 　末多乞叉缚　醉
+
+　　na ṣi da 　娜史(引)吒　坐
+
+　　u tti ṣṭa 　郁底(上)瑟吒　起
+
+　　dha va 　陀缚　走
+
+　　me gha 　铭伽　云
+
+　　śve ta 　室制多　白
+
+　　kṛ ṣṭa 　讫里史拏　黑
+
+　　nī la 　𩕳(引)攞　青
+
+　　lo hi ta 　路(引)呬(上)多　赤
+
+　　jaṃ bu ra 　乳耄啰　紫
+
+　　pa lā śa 　波攞(引)舍　绿
+
+　　u rdhva 　郁嚩　上
+
+　　a va ta ra 　阿嚩多罗　下
+
+　　su lī 　孙邻　胡
+
+　　cī na 　振那　汉
+
+　　ra śmi 　罗湿弭(二合)　光
+
+　　ku ttya 　俱多也　墙
+
+　　pa rya ṇa 　钵里也拏　院
+
+　　pā pa 　播波　罪
+
+　　a pa rā dha 　阿跛啰(引)陀　过
+
+　　pu ṇya 　布拏也(二合)　福
+
+　　gu ṇa 　瞿拏　德
+
+　　u tta ma 　乌跢摩　胜
+
+　　hī na 　呬那　劣
+
+　　dṛ ḍha 　㖏哩(二合)荼　坚
+
+　　sā ra 　娑(引)啰　固
+
+　　su tra 　素跢罗　经
+
+　　bi na ya 　毗那野　律
+
+　　pṛ tha bha jja na 　跛栗他婆惹那　凡
+
+　　ā rya 　阿(引)哩也(二合)　圣
+
+　　e vaṃ 　曀鑁　是
+
+　　nai va 　非
+
+　　pra ṇa dha 　钵罗抳地　愿
+
+　　a ga ccha 　阿哦车　来
+
+　　ga ccha 　哦车　去
+
+　　ba rbha su kha 　袜嚩苏佉　消息
+
+　　su to ṣa 　率都沙　欢乐
+
+　　vai ra 　恨
+
+　　pu rṇu 　布啰拏　满
+
+　　梵唐消息(终)
+
+　　件书以元庆八年正月二十三日始经四日写惟海上人之本讫焉三井寺唐院比丘良勇记
