@@ -6,6 +6,8 @@
 
 - bodhidict 菩提辞典对文本处理过的版本。
 
+  - 大正藏 [](README.md)
+
 - origin 原始收集到版本
 
   - dazhengzang 大正藏
@@ -23,5 +25,5 @@
   - yonglebeizang 永乐北藏
   - zhaochengjinzang 赵城金藏
   - zhonghuazang 中华藏
-  
+
   
