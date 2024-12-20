@@ -6,7 +6,7 @@
 
 - bodhidict 菩提辞典对文本处理过的版本。
 
-  - 大正藏 [->](README.md)
+  - 大正藏 [->](https://github.com/younglabfun/buddhism/blob/main/bodhidict/dazhengzang/README.md)
 
 - origin 原始收集到版本
 
